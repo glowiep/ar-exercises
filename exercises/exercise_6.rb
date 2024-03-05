@@ -8,4 +8,4 @@ require_relative './exercise_5'
 puts "Exercise 6"
 puts "----------"
 
-# Your code goes here ...
+# One-to-many association
